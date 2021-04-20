@@ -73,33 +73,33 @@ body {
   text-decoration: underline;
 }
 
-ul.social-network {
+ul.socialnetwork {
   list-style: none;
   display: inline;
   margin-left: 0 !important;
   padding: 0;
 }
 
-ul.social-network li {
+ul.socialnetwork li {
   display: inline;
   margin: 0 5px;
 }
 
-.social-network a.icoFacebook:hover {
+.socialnetwork a.icoFacebook:hover {
   background-color: #3b5998;
 }
 
-.social-network a.icoTwitter:hover {
+.socialnetwork a.icoTwitter:hover {
   background-color: #33ccff;
 }
 
-.social-network a.icoGoogle:hover {
+.socialnetwork a.icoGoogle:hover {
   background-color: #bd3518;
 }
 
-.social-network a.icoFacebook:hover i,
-.social-network a.icoTwitter:hover i,
-.social-network a.icoGoogle:hover i {
+.socialnetwork a.icoFacebook:hover i,
+.socialnetwork a.icoTwitter:hover i,
+.socialnetwork a.icoGoogle:hover i {
   color: #fff;
 }
 
@@ -108,7 +108,7 @@ a.socialIcon:hover,
   color: #44bcdd;
 }
 
-.social-circle li a {
+.socialcircle li a {
   display: inline-block;
   position: relative;
   margin: 0 auto 0 auto;
@@ -119,19 +119,19 @@ a.socialIcon:hover,
   font-size: 20px;
 }
 
-.social-circle li i {
+.socialcircle li i {
   margin: 0;
   line-height: 50px;
   text-align: center;
 }
 
-.social-circle li a:hover i,
+.socialcircle li a:hover i,
 .triggeredHover {
   transform: rotate(360deg);
   transition: all 0.2s;
 }
 
-.social-circle i {
+.socialcircle i {
   color: #fff;
   transition: all 0.8s;
   transition: all 0.8s;

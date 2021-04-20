@@ -31,15 +31,15 @@ let Navbar = () =>
                         </li>
                         <li className='nav-item active mr-3'>
                         <Link className='nav-link' to='/cart'>
-                        <i class="fas fa-shopping-cart">
-                        <span class="badge ">4</span>
+                        <i className="fas fa-shopping-cart">
+                        <span className="badge ">4</span>
                             </i>
                     </Link>
                 </li>
                 
                 <li className='nav-item active mr-3'>
                         <Link className='nav-link' to='/productCart'>
-                        <i class="fas fa-user"></i>
+                        <i className="fas fa-user"></i>
                     </Link>
                         </li>
                     </ul>
